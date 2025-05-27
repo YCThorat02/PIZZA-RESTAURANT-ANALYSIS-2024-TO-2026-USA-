@@ -36,6 +36,10 @@ Offline payments like Cash and loyalty-based systems (e.g., "Hut Points") were l
 ### Delivery Efficiency
 The average delivery time was 29.49 minutes, while delayed deliveries averaged 18 minutes late, showing a need for optimization in peak hours.
 
+### DASHBOARD 1st
+![Screenshot 2025-05-27 104907](https://github.com/user-attachments/assets/41bfb06b-034d-4cf3-ae15-e5143f5e2d3e)
+
+
 ### Skills Demonstrated
 Data Modeling & Cleaning
 
@@ -44,6 +48,11 @@ UX-Focused Dashboard Design
 Business-Oriented Data Interpretation
 
 Geo-Analysis using Map Visuals
+
+### DASHBOARD 2nd
+![Screenshot 2025-05-27 104929](https://github.com/user-attachments/assets/2f8d8f10-36e9-44fb-a06b-9d3270cb3588)
+
+
 
 
 # My Analytical Perspective
